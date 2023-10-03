@@ -1,2 +1,2 @@
-# defiLlammaAPI
-Get DeFi data using the DeFiLlamma API
+# defiLlamaAPI
+Get DeFi data using the DeFiLlama API
